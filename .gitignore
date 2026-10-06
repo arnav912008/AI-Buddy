@@ -1,0 +1,19 @@
+# your own character art and downloaded voices stay on your machine
+sprites/
+voices/
+_speech.wav
+
+# personal settings and saved personalities
+buddy_config.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

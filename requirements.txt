@@ -1,0 +1,9 @@
+requests
+pillow
+
+# Optional extras - uncomment what you want
+# pyttsx3           # basic offline voice
+# piper-tts         # nicer neural voice (also needs a voice file, see README)
+# sounddevice       # microphone input
+# numpy             # needed by sounddevice / piper playback
+# faster-whisper    # speech recognition (your voice -> text), runs locally
