@@ -5,8 +5,8 @@ A desktop AI companion that runs **entirely on your computer**. It chats through
 can listen through your microphone, speak its replies, and switch personality
 when you describe a new one in a single sentence. No cloud, no API keys.
 
-![Local Buddy screenshot](docs/screenshot.png)
 
+  
 ## Features
 
 - **Local chat** with any model you have in Ollama, streamed word by word
