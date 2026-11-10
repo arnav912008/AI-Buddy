@@ -99,4 +99,4 @@ Everything is at the top of `buddy.py`: `OLLAMA_URL`, `THEME`, `WHISPER_MODEL`,
 
 ## License
 
-MIT - see [LICENSE](LICENSE). Replace `[your name]` in the license with yours before publishing.
+MIT - see [LICENSE](LICENSE).
